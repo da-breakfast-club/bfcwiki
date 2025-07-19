@@ -72,4 +72,9 @@
 * jjamppong
 * tangsuyuk
 * steak and eggs (or just steak) maybe with roasted vegetables/mushrooms 
-* sokkoritang 
+
+## Solo-bolo recipes
+* sokkoritang (stew, takes too long for group)
+
+## Recipes that need more people
+* jjamppong (too many ingredients, requires economies of scale)
